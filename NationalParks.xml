@@ -90,8 +90,8 @@
       <Zip>98362</Zip>
     </Address>
   </NationalPark>
-  <NationalPark Rating="4.8">
-    <Name>Grand Teton</Name>
+  <NationalPark>
+    <Name>Grand Teton</Name> <!-- Rating attribute omitted intentionally (some but not all) -->
     <Phone>307-739-3300</Phone>
     <Address NearestAirport="Jackson Hole">
       <Number>101</Number>
@@ -101,8 +101,8 @@
       <Zip>83012</Zip>
     </Address>
   </NationalPark>
-  <NationalPark Rating="4.6">
-    <Name>Cuyahoga Valley</Name>
+  <NationalPark>
+    <Name>Cuyahoga Valley</Name> <!-- Rating attribute omitted intentionally (some but not all) -->
     <Phone>330-657-2752</Phone>
     <Address NearestAirport="Cleveland">
       <Number>1550</Number>
